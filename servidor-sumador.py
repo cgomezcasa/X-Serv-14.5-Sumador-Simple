@@ -35,4 +35,3 @@ try:
 except KeyboardInterrupt:
     print("Closing binded socket")
     mySocket.close()
-
